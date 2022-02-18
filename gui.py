@@ -1,7 +1,7 @@
 import tkinter as tk
 import tkinter.font as tkFont
 import tkinter.scrolledtext as st
-from backend import Speech
+from recognizer import Speech
 import threading
 import time
 
